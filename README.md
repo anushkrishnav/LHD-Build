@@ -5,6 +5,11 @@ Collection of Solutions to all the chalanges of LHD-Build. This repository is ma
 ## Automate a Daily Task
 Well Automating stuff is one of the favourite time pass for me Check out the [PyAutomate](https://github.com/anushkrishnav/PyAutomate) to find scripts that you can use to make your life a bit easier. Also share some awesome script you got by Issuing a PR to the Repository 
 
+## Use Computer Vision
+As a person who is regular to hackathons I use lot of CV on my apps well the trick is I use Azure to make my life more easier do check it out here 
+Easily apply breakthrough computer vision
+Add leading-edge video- and photo-recognition technology to your own apps with a simple API call. https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/
+
 # Day 1
 ## Create a Personal Site with GitHub Pages
 
